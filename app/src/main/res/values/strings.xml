@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1_Project</string>
+    <string name="nom">Pseudo</string>
+    <string name="OK">OK</string>
+    <string name="hello">Hello App !</string>
+    <string name="inputNom">Thomas </string>
+    <string name="action_settings">Préférences</string>
+</resources>
